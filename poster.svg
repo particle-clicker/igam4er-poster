@@ -513,6 +513,16 @@
        y1="31.5"
        x2="45"
        y2="31.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3820"
+       id="linearGradient10120"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-52,0)"
+       x1="314.62408"
+       y1="547.20599"
+       x2="427.37671"
+       y2="432.48389" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -521,11 +531,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7764143"
-     inkscape:cx="531.54837"
-     inkscape:cy="398.70121"
+     inkscape:zoom="0.27450391"
+     inkscape:cx="2106.4961"
+     inkscape:cy="1489.9606"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
@@ -1073,7 +1083,7 @@
          style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#455a64;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
          id="flowPara5151">Run your own laboratory, collect data, hire physicists, and make historic discoveries!</flowPara></flowRoot>    <g
        id="g3802"
-       transform="translate(-2896.247,397.40706)">
+       transform="translate(-2896.1274,342.76302)">
       <flowRoot
          transform="translate(422.5805,-1708.9829)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#37474f;fill-opacity:1;stroke:none;font-family:Lobster;-inkscape-font-specification:Lobster"
@@ -1128,7 +1138,7 @@
              width="1024.6572"
              id="rect3698" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara3700">The CERN Summer Student Webfest is an annual hackathon at CERN, the European Organization for Nuclear Research. Participants work on interesting new ideas over the course of a weekend and create web applications that encourage the public to learn more about science and in particular about CERN, the LHC, and physics. Students also explore humanitarian projects that involve web-based solutions, together with CERN’s partner UNOSAT.</flowPara></flowRoot>      <flowRoot
+           id="flowPara3700">The CERN Summer Student Webfest is an annual hackathon at CERN, the European Organization for Nuclear Research. Participants work on interesting new ideas over the course of a weekend. They create web applications that encourage the public to learn more about science and in particular about CERN, the LHC, and physics. Students can also explore humanitarian projects that involve web-based solutions, together with CERN’s partner UNOSAT.</flowPara></flowRoot>      <flowRoot
          transform="translate(-1267.1721,-1908.7338)"
          style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b71c1c;fill-opacity:1;stroke:none;font-family:Lobster;-inkscape-font-specification:Lobster"
          id="flowRoot3736-9"
@@ -1168,10 +1178,9 @@
          x="2154.0208"
          y="18.108692" /></text>
     <g
-       id="g5038"
-       transform="translate(3001.7788,-1213.4588)">
+       id="g10320">
       <g
-         transform="translate(-1286.5555,1269.711)"
+         transform="translate(1715.2233,56.2522)"
          id="g3854">
         <flowRoot
            xml:space="preserve"
@@ -1190,7 +1199,17 @@
    style="font-weight:bold;-inkscape-font-specification:Yanone Kaffeesatz Bold"
    id="flowSpan3734"> web-based, client-side game.</flowSpan> Written from scratch in HTML5 and JavaScript using modern technologies, it is playable in any browser. A Responsive interface is displayed with the help of jQuery, Angular JS, and Bootstrap, so it looks nice on all of your devices, <flowSpan
    id="flowSpan3927"
-   style="font-weight:bold;-inkscape-font-specification:Yanone Kaffeesatz Bold">desktop or mobile</flowSpan>.</flowPara></flowRoot>        <flowRoot
+   style="font-weight:bold;-inkscape-font-specification:Yanone Kaffeesatz Bold">desktop or mobile</flowSpan>.</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+             id="flowPara9996" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+             id="flowPara9998" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+             id="flowPara10000" /><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+             id="flowPara10002">The game is open source under the terms of an <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Yanone Kaffeesatz Bold"
+   id="flowSpan10004">MIT license</flowSpan>. The source code can be found on GitHub: github.com/particle-clicker/particle-clicker</flowPara></flowRoot>        <flowRoot
            xml:space="preserve"
            id="flowRoot3736"
            style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b71c1c;fill-opacity:1;stroke:none;font-family:Lobster;-inkscape-font-specification:Lobster"
@@ -1204,11 +1223,10 @@
                style="font-size:80px;fill:#b71c1c" /></flowRegion><flowPara
              id="flowPara3742">Technology</flowPara></flowRoot>      </g>
       <g
-         transform="translate(-2.9728404,14.571745)"
-         id="g4937">
+         id="g10221">
         <g
            id="g4665"
-           transform="matrix(0.50601553,0,0,0.50601553,521.65811,379.73142)">
+           transform="matrix(0.50601553,0,0,0.50601553,3520.4641,-819.15568)">
           <path
              id="path4527"
              d="m 223.9,46.171 0.001,-0.005 c 0,0 -3.352,11.88 -3.352,11.88 0,0 3.3508,-11.875 3.3508,-11.875 z"
@@ -1541,10 +1559,10 @@
              style="fill:#0868ac;fill-rule:nonzero" />
         </g>
         <g
-           transform="matrix(0.65855984,0,0,0.65855984,230.84156,99.628885)"
+           transform="matrix(0.65855984,0,0,0.65855984,3229.6476,-1099.2582)"
            id="layer1-0">
           <rect
-             style="fill:url(#linearGradient5149);fill-opacity:1;stroke:none"
+             style="fill:url(#linearGradient10120);fill-opacity:1;stroke:none"
              id="rect3050"
              y="425.32587"
              x="255.23856"
@@ -1564,12 +1582,12 @@
         </g>
         <g
            id="g4908"
-           transform="matrix(0.4244465,0,0,0.4244465,68.515986,379.36003)">
+           transform="matrix(0.4244465,0,0,0.4244465,3067.322,-819.52707)">
           <g
              id="g4852">
 	<polygon
    id="polygon4854"
-   points="229.733,114.75 229.733,57.715 238.394,57.715 238.394,128.516 229.236,128.516 185.914,70.98 185.914,128.516 177.248,128.516 177.248,57.715 186.407,57.715 "
+   points="229.236,128.516 185.914,70.98 185.914,128.516 177.248,128.516 177.248,57.715 186.407,57.715 229.733,114.75 229.733,57.715 238.394,57.715 238.394,128.516 "
    style="fill:#cccccc" />
 
 	<path
@@ -1586,12 +1604,12 @@
 
 	<polygon
    id="polygon4860"
-   points="398.563,57.715 407.717,57.715 407.717,121.092 444.758,121.092 444.758,128.516 398.563,128.516 "
+   points="444.758,128.516 398.563,128.516 398.563,57.715 407.717,57.715 407.717,121.092 444.758,121.092 "
    style="fill:#cccccc" />
 
 	<polygon
    id="polygon4862"
-   points="518.87,128.518 508.723,128.518 499.56,106.234 476.148,106.234 478.671,98.816 496.495,98.816 483.275,66.728 457.973,128.518 448.469,128.518 483.669,48.376 "
+   points="478.671,98.816 496.495,98.816 483.275,66.728 457.973,128.518 448.469,128.518 483.669,48.376 518.87,128.518 508.723,128.518 499.56,106.234 476.148,106.234 "
    style="fill:#cccccc" />
 
 	<path
@@ -1614,7 +1632,7 @@
 
 	<polygon
    id="polygon4870"
-   points="232.045,112.438 232.045,55.402 240.711,55.402 240.711,126.203 231.552,126.203 188.227,68.667 188.227,126.203 179.565,126.203 179.565,55.402 188.723,55.402 " />
+   points="231.552,126.203 188.227,68.667 188.227,126.203 179.565,126.203 179.565,55.402 188.723,55.402 232.045,112.438 232.045,55.402 240.711,55.402 240.711,126.203 " />
 
 	<path
    id="path4872"
@@ -1628,11 +1646,11 @@
 
 	<polygon
    id="polygon4876"
-   points="400.88,55.398 410.034,55.398 410.034,118.775 447.071,118.775 447.071,126.199 400.88,126.199 " />
+   points="447.071,126.199 400.88,126.199 400.88,55.398 410.034,55.398 410.034,118.775 447.071,118.775 " />
 
 	<polygon
    id="polygon4878"
-   points="521.188,126.202 511.035,126.202 501.877,103.92 478.46,103.92 480.989,96.496 498.808,96.496 485.592,64.408 460.29,126.202 450.785,126.202 485.987,46.056 " />
+   points="480.989,96.496 498.808,96.496 485.592,64.408 460.29,126.202 450.785,126.202 485.987,46.056 521.188,126.202 511.035,126.202 501.877,103.92 478.46,103.92 " />
 
 	<path
    id="path4880"
@@ -1661,7 +1679,7 @@
              id="g4888">
 	<polygon
    id="polygon4890"
-   points="166.462,29.46 83.243,0.875 0.554,29.975 13.621,138.311 83.331,176.625 153.4,137.792 "
+   points="83.331,176.625 153.4,137.792 166.462,29.46 83.243,0.875 0.554,29.975 13.621,138.311 "
    style="fill:#b3b3b3" />
 
 	<polygon
@@ -1682,7 +1700,7 @@
 
 	<polygon
    id="polygon4898"
-   points="136.529,129.881 83.049,15.804 83.186,52.271 100.454,88.396 83.088,88.396 83.049,103.523 107.062,103.546 118.285,129.543 "
+   points="83.088,88.396 83.049,103.523 107.062,103.546 118.285,129.543 136.529,129.881 83.049,15.804 83.186,52.271 100.454,88.396 "
    style="fill:#b3b3b3" />
 
 </g>
@@ -1731,29 +1749,73 @@
          sodipodi:type="star" />
     </g>
     <g
-       id="g8743"
-       transform="translate(0,-84)">
+       id="g3940-9"
+       transform="translate(1518.7449,67.078329)">
+      <flowRoot
+         transform="translate(-47.358159,-1908.9873)"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#37474f;fill-opacity:1;stroke:none;font-family:Lobster;-inkscape-font-specification:Lobster"
+         id="flowRoot3694-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3696-7"><rect
+             style="text-align:start;text-anchor:start;fill:#37474f"
+             y="786.87408"
+             x="120.21687"
+             height="612.5307"
+             width="980.94202"
+             id="rect3698-6" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowPara3700-9">The game presents an oversimplification of particle physics research. The basic game loop represents the fundamental process of collecting data, making discoveries, receiving grant money, and hiring people to do more research.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowPara7146" /><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowPara7190">In reality, much like in the game, more and more data is needed for more complex discoveries. The game takes you on a historic journey from the discovery of CP violation in 1964 to recent discoveries like the Higgs boson or the <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"
+   id="flowSpan7150">Ξ<flowSpan
+   style="font-size:65.00091553%;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;baseline-shift:sub;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+   id="flowSpan7152">b</flowSpan><flowSpan
+   id="flowSpan7180"
+   style="font-size:65.00091553%;letter-spacing:0px;word-spacing:0px;baseline-shift:super">- </flowSpan></flowSpan>baryon.</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowPara9992"></flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowPara9994">The more you research a certain topic, the more information on it you unlock. Despite having been discovered 50 years ago, CP violation is still an active research topic today so this model resembles reality quite nicely.</flowPara></flowRoot>      <flowRoot
+         transform="translate(-1267.1721,-1908.7338)"
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b71c1c;fill-opacity:1;stroke:none;font-family:Lobster;-inkscape-font-specification:Lobster"
+         id="flowRoot3736-9-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3738-4-5"><rect
+             style="font-size:80px;fill:#b71c1c"
+             y="673.94305"
+             x="1336.9573"
+             height="211.29025"
+             width="786.87402"
+             id="rect3740-8-7" /></flowRegion><flowPara
+           id="flowPara3742-8-6"
+           style="font-size:80px">Scientific Background</flowPara></flowRoot>    </g>
+    <g
+       id="g9706"
+       transform="translate(0,60)">
       <g
-         id="g7786">
+         id="g9598">
         <flowRoot
            xml:space="preserve"
            id="flowRoot4429"
            style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#37474f;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           transform="matrix(0.72015603,0,0,0.72015603,997.3743,-871.46603)"><flowRegion
+           transform="matrix(0.72015603,0,0,0.72015603,937.4421,-846.17797)"><flowRegion
              id="flowRegion4431"><rect
                id="rect4433"
-               width="1220.3833"
-               height="440.7952"
+               width="1382.2565"
+               height="425.6196"
                x="1905.2552"
                y="539.15442"
                style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /></flowRegion><flowPara
              id="flowPara4435"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
-   id="flowSpan4496">Data</flowSpan> is necessary for research. Only with data can you make discoveries. You can collect data by clicking on your detector. Once you hire students, they will also collect data for you.</flowPara></flowRoot>        <flowRoot
+   id="flowSpan4496">Data</flowSpan> is necessary for research. You can collect data by clicking on your detector. Once you hire physicists, they will also collect data for you.</flowPara></flowRoot>        <flowRoot
            xml:space="preserve"
            id="flowRoot4498"
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#37474f;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           transform="matrix(0.72015603,0,0,0.72015603,1244.5235,-852.03373)"><flowRegion
+           transform="matrix(0.72015603,0,0,0.72015603,1244.5235,-936.03373)"><flowRegion
              id="flowRegion4500"><rect
                id="rect4502"
                width="779.5882"
@@ -1768,7 +1830,7 @@
            xml:space="preserve"
            id="flowRoot4429-8"
            style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#37474f;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           transform="matrix(0.72015603,0,0,0.72015603,997.86941,377.08088)"><flowRegion
+           transform="matrix(0.72015603,0,0,0.72015603,997.86941,293.08088)"><flowRegion
              id="flowRegion4431-5"><rect
                id="rect4433-7"
                width="1220.3833"
@@ -1776,13 +1838,13 @@
                x="1905.2552"
                y="539.15442"
                style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /></flowRegion><flowPara
-             id="flowPara4435-6">Every time your lab researches something, it becomes more popular. This &quot;reputation&quot; guarantees you a contant stream of <flowSpan
+             id="flowPara4435-6">Every time your lab researches something, it becomes more popular. This &quot;reputation&quot; guarantees you a constant stream of <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
    id="flowSpan4567">funding</flowSpan> in form of &quot;jetons&quot; (JTN), the coins used for buying coffee at CERN.</flowPara></flowRoot>        <flowRoot
            xml:space="preserve"
            id="flowRoot4498-8"
            style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#37474f;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           transform="matrix(0.72015603,0,0,0.72015603,-999.9887,-1041.251)"><flowRegion
+           transform="matrix(0.72015603,0,0,0.72015603,-999.9887,-1125.251)"><flowRegion
              id="flowRegion4500-9"><rect
                id="rect4502-2"
                width="779.5882"
@@ -1794,7 +1856,8 @@
              style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">PhD students, Postdocs, Professors and many more are the types of <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
    id="flowSpan4607">workers</flowSpan> you can hire in Particle Clicker to make your academic life easier. They will ease the tedious task of collecting data for you so you can focus on your research.</flowPara></flowRoot>        <g
-           id="g7699">
+           id="g7699"
+           transform="translate(0,-84)">
           <g
              transform="translate(1333.3144,61.929904)"
              id="g3440">
@@ -2251,7 +2314,7 @@
         </g>
       </g>
       <g
-         transform="translate(-10.928806,18.214677)"
+         transform="translate(-10.928806,-65.785323)"
          id="g8575">
         <g
            id="g6928"
@@ -2833,6 +2896,7 @@
         </g>
       </g>
       <g
+         transform="translate(0,-84)"
          id="g8702">
         <g
            id="g6327"
@@ -3012,84 +3076,44 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff9800;stroke:#fb8c00;stroke-opacity:1;font-family:FontAwesome;-inkscape-font-specification:FontAwesome"></flowPara></flowRoot>          </g>
         </g>
       </g>
+      <g
+         transform="translate(1377.5578,1628.2829)"
+         id="g3940-9-5">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3694-9-8"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#37474f;fill-opacity:1;stroke:none;font-family:Lobster;-inkscape-font-specification:Lobster"
+           transform="translate(-47.358159,-1908.9873)"><flowRegion
+             id="flowRegion3696-7-2"><rect
+               id="rect3698-6-5"
+               width="744.15118"
+               height="444.95569"
+               x="120.21687"
+               y="786.87408"
+               style="text-align:start;text-anchor:start;fill:#37474f" /></flowRegion><flowPara
+             id="flowPara7190-1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">You can also use your funding to improve the performance of your workers and your detector. Hardware upgrades like <flowSpan
+   id="flowSpan9082"
+   style="font-weight:bold;-inkscape-font-specification:Yanone Kaffeesatz Bold">increased luminosity</flowSpan> give more data per click and improved quality of life through - for example - <flowSpan
+   id="flowSpan9080"
+   style="font-weight:bold;-inkscape-font-specification:Yanone Kaffeesatz Bold">free coffee</flowSpan> makes your workers more productive.</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot3736-9-3-3"
+           style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b71c1c;fill-opacity:1;stroke:none;font-family:Lobster;-inkscape-font-specification:Lobster"
+           transform="translate(-1267.1721,-1908.7338)"><flowRegion
+             id="flowRegion3738-4-5-3"><rect
+               id="rect3740-8-7-5"
+               width="786.87402"
+               height="211.29025"
+               x="1336.9573"
+               y="673.94305"
+               style="font-size:80px;fill:#b71c1c" /></flowRegion><flowPara
+             style="font-size:80px"
+             id="flowPara3742-8-6-5">Technology Upgrades</flowPara></flowRoot>      </g>
     </g>
     <g
-       id="g3940-9"
-       transform="translate(1518.7449,67.078329)">
-      <flowRoot
-         transform="translate(-47.358159,-1908.9873)"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#37474f;fill-opacity:1;stroke:none;font-family:Lobster;-inkscape-font-specification:Lobster"
-         id="flowRoot3694-9"
-         xml:space="preserve"><flowRegion
-           id="flowRegion3696-7"><rect
-             style="text-align:start;text-anchor:start;fill:#37474f"
-             y="786.87408"
-             x="120.21687"
-             height="612.5307"
-             width="980.94202"
-             id="rect3698-6" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara3700-9">The game presents an oversimplification of particle physics research. The basic game loop represents the fundamental process of collecting data, making discoveries, receiving grant money, and hiring people to do more research.</flowPara><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara7146" /><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara7190">In reality, much like in the game, more and more data is needed for more complex discoveries. The game takes you on a historic journey from the discovery of CP violation in 1964 to recent discoveries like the Higgs boson or the <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:Georgia"
-   id="flowSpan7150">Ξ<flowSpan
-   style="font-size:65.00091553%;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;baseline-shift:sub;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-   id="flowSpan7152">b</flowSpan><flowSpan
-   id="flowSpan7180"
-   style="font-size:65.00091553%;letter-spacing:0px;word-spacing:0px;baseline-shift:super">- </flowSpan></flowSpan>baryon. </flowPara></flowRoot>      <flowRoot
-         transform="translate(-1267.1721,-1908.7338)"
-         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b71c1c;fill-opacity:1;stroke:none;font-family:Lobster;-inkscape-font-specification:Lobster"
-         id="flowRoot3736-9-3"
-         xml:space="preserve"><flowRegion
-           id="flowRegion3738-4-5"><rect
-             style="font-size:80px;fill:#b71c1c"
-             y="673.94305"
-             x="1336.9573"
-             height="211.29025"
-             width="786.87402"
-             id="rect3740-8-7" /></flowRegion><flowPara
-           id="flowPara3742-8-6"
-           style="font-size:80px">Scientific Background</flowPara></flowRoot>    </g>
-    <g
-       id="g3940-9-5"
-       transform="translate(1377.5578,1628.2829)">
-      <flowRoot
-         transform="translate(-47.358159,-1908.9873)"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#37474f;fill-opacity:1;stroke:none;font-family:Lobster;-inkscape-font-specification:Lobster"
-         id="flowRoot3694-9-8"
-         xml:space="preserve"><flowRegion
-           id="flowRegion3696-7-2"><rect
-             style="text-align:start;text-anchor:start;fill:#37474f"
-             y="786.87408"
-             x="120.21687"
-             height="444.95569"
-             width="744.15118"
-             id="rect3698-6-5" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara7190-1">You can also use your funding to improve the performance of your workers and your detector. Hardware upgrades like <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Yanone Kaffeesatz Bold"
-   id="flowSpan9082">increased luminosity</flowSpan> give more data per click and improved quality of life through - for example - <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Yanone Kaffeesatz Bold"
-   id="flowSpan9080">free coffee</flowSpan> makes your workers more productive.</flowPara></flowRoot>      <flowRoot
-         transform="translate(-1267.1721,-1908.7338)"
-         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b71c1c;fill-opacity:1;stroke:none;font-family:Lobster;-inkscape-font-specification:Lobster"
-         id="flowRoot3736-9-3-3"
-         xml:space="preserve"><flowRegion
-           id="flowRegion3738-4-5-3"><rect
-             style="font-size:80px;fill:#b71c1c"
-             y="673.94305"
-             x="1336.9573"
-             height="211.29025"
-             width="786.87402"
-             id="rect3740-8-7-5" /></flowRegion><flowPara
-           id="flowPara3742-8-6-5"
-           style="font-size:80px">Technology Upgrades</flowPara></flowRoot>    </g>
-    <g
        id="g3940-3"
-       transform="translate(-12.319387,1454.0372)">
+       transform="translate(-4.4871102,1344.7491)">
       <flowRoot
          transform="translate(-47.358159,-1908.9873)"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#37474f;fill-opacity:1;stroke:none;font-family:Lobster;-inkscape-font-specification:Lobster"
@@ -3107,7 +3131,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
            id="flowPara9147" /><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#37474f;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara9151">Cory Doctorow from boingboing.net called it a &quot;meth-addictive supercollider sim&quot; and countless people have shared their love for the game on Twitter, Facebook, Reddit and many other places on the internet. Camille Gévaudan from the French magazine Libération gave it the attribute &quot;Classe&quot;.</flowPara></flowRoot>      <flowRoot
+           id="flowPara9151">Cory Doctorow from boingboing.net called it a &quot;meth-addictive supercollider sim&quot; and countless people have shared their love for the game on Twitter, Facebook, Reddit and many other places on the internet. Camille Gévaudan from the French newspaper Libération gave it the attribute &quot;Classe&quot;. The game was featured in Symmetry Magazine and Science.</flowPara></flowRoot>      <flowRoot
          transform="translate(-1267.1721,-1908.7338)"
          style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b71c1c;fill-opacity:1;stroke:none;font-family:Lobster;-inkscape-font-specification:Lobster"
          id="flowRoot3736-9-36"
