@@ -1,0 +1,1 @@
+Particle Clicker is a completely web-based, client-side game. Written from scratch in HTML5 and JavaScript using modern technologies, it is playable in any browser. Responsive interface is displayed with help of jQuery, Angular JS and Bootstrap, so it looks nice on all of your devices, desktop or mobile.
